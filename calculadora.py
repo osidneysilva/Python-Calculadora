@@ -16,7 +16,7 @@ a = float(a_texto)
 b = float(b_texto)
 
 # 4) Processamento: Nesse momento do projeto vou apenas somar.
-resultado = a * b
+resultado = a + b
 
 # 5) Saída: mostrar o resultado ao usuário.
 print('Resultado:', resultado)
